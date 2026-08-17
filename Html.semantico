@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Instituto Federal</title>
+</head>
+
+<body>
+
+<header>
+    <h1>Instituto Federal</h1>
+    <p>Educação pública e de qualidade</p>
+</header>
+
+<nav>
+    <a href="#inicio">Início</a> |
+    <a href="#cursos">Cursos</a> |
+    <a href="#noticias">Notícias</a>
+</nav>
+
+<main>
+
+    <section id="inicio">
+        <h2>Sobre o Instituto</h2>
+        <p>O Instituto Federal oferece educação profissional, científica e tecnológica.</p>
+    </section>
+
+    <section id="cursos">
+        <h2>Cursos</h2>
+
+        <article>
+            <h3>Informática</h3>
+            <p>Curso voltado para tecnologia e programação.</p>
+        </article>
+
+        <article>
+            <h3>Administração</h3>
+            <p>Curso voltado para gestão e negócios.</p>
+        </article>
+    </section>
+
+    <section id="noticias">
+        <h2>Notícias</h2>
+        <article>
+            <h3>Eventos do Instituto</h3>
+            <p>Confira as novidades e atividades do campus.</p>
+        </article>
+    </section>
+
+    <aside>
+        <h3>Informação</h3>
+        <p>Acompanhe o calendário acadêmico.</p>
+    </aside>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Instituto Federal</p>
+</footer>
+
+</body>
+</html>
